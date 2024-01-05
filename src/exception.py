@@ -1,6 +1,9 @@
 import sys
 import logging
 import traceback
+from src.logger import logging
+
+
 
 def error_message_details(error):
     exc_type, exc_value, exc_tb = sys.exc_info()
