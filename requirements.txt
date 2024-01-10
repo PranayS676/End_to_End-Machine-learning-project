@@ -6,4 +6,5 @@ scikit-learn
 catboost
 jax
 dill
+flask
 -e .
